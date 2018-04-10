@@ -1,37 +1,28 @@
-# nukular launch code verification Program
+# nukular launch code verification
 
-Code 1:
-wcBMAy3sSIHDnSLwAQf9HbtiWMCFJh5PhGprXR0CwK/ES4a8pHJVQw9npEqVqoxg
-X7ZaEx92tmz8ZCDEUEAag+e4TyyOiPpQrgX8k3EU8w8k5wkQSfLtqVIplKqAdvLx
+code 1:
+wcBMA2/ccgZQsCzDAQf+OM7eSg+pI+O/zKOr/ihLS9MpkwLY9bcfZVItyYw46w8N
 
-Code 2:
-nsGTg3Ps3V9TKeQSJ6uHBhLIqfOW/M4YFZkzaMpMZlb3sqjHlq8C9xPFkHbdslUe
-cxH1IgGITBTC7sDE0/fG1ylMO6P+AZdUXQWQNPEnF91fwRBGckLDQS8z57jciHPc
+code 2:
+R8wZyqRjeshtPGQ0Xbd7p//6jJhSuTerHHRNHrHLYL/JctYr9gV5JZJ0JEnV7RVL
+03vlpQZNf0Zr7EPglGm+pyyh+KiJMLz/j/spqI7qU1Cm+7xRRh16ZPyHggUu3g9U
 
-Code 3:
-nvePnvz0SPDX+jbhhcvHt4F37o11bYf8ztz4F3CvmP35y+8epoS55Ra7BYdPj+S6
-R7mydtbZKE5Owr7JC+fDf5JIM5z7+Qu9B2a2rsGWhdLBHAFXVmPW12FjM3A6AfUc
+code 3:
+1+M+iteW56c4AaDe1g0hpsczbwtPkXg+sQDgnptCHbSO/+WQUD9CfEq9t40dgmAd
+rmcQJiRZXmIaColGbK49pyTf1fhwkjXNZJUmU5MiVkfCjgdgBasv4+39Z2F+h8oG
 
-Code 4:
-bQD3YIp3KMdqQd/Np1XuTKBsfmcNNJ1z8PCV83bf/KVQvoRglqh9w4R2ooEp7LzJ
-3WI/1RWmrFFYFHV8LcQ1N+vCg+ggnkxiHWDag4SbspYOloI+fvNIpaUg0MQpanCg
+code 4:
+hrIflZXlE/FuFNhh2QQS6SuQZAzhrYdBVbxZ0yGitNKnAeL1+TnbWq86aNZh7Ftq
+JSuVktHYThBFZYSjDpsLitEiucrCKcmj+6S1oG6Nu24ejKFPmUJqBclNRVpaFSpi
 
-Code 5:
-kADylO/O2//c/QZKeIt4P+xNPcqcy6pkgP8+oWZsynX5I16q62gi6H2bW2V3RRPI
-ABMePdLL60HXPoQPeDfCHEpVDuTyqNarF0FqFcQ+DKq7vXcCE6xpTq4q5Du672ZE
+code 5:
+wHuAFhER+VwsRIZ/CAYHbiBJrd/BIAXCUQQizjgkw29ZvbTX2ZiUgUMbEv2Psi+C
+qO8t0x3LfBMYCm4cOwZU7eZjBv2PoIn9ENLhP0GQwQ6bNMag58oHArT4Ir0/xa/x
 
-Code 6:
-ABGlRGAmZ1Z9sCaxbuYPS++9sLx9StvgWc1mTp/r1IaGjlxaP4GGnSnHpsXOS9aY
-/bP9NrggLcUuYi2EgXSURJgiWJovB6LoMzoP6u1Ru7vMZfA8LG2vfRL/58PdhBiz
+code 6:
+Ku+U27XcMmY=
 
-Code 7:
-vZwd7+ZEidfNkD/k5O48RI6BWMGK1FKUKaCsldRpZ3uYWQcCg1W1aRc1l0Ovw8mm
-GRERfNLH5SAFC+gTXGlWsrDsdm+X6Bkw8uPNNO04CKeSP+4QR5PjbVKgx+BqcWdb
-
-Code 8:
-ozwT6yZ0FaPOAM6L44oRRdPF0nK33BYH9Rt94mZKDd6NRiCjy+eAw5V5rFMX1yUD
-sCFnn7P7JLh5FWvqbc1BumLXrc+OTj4VktsgnCvz
-=OiRY
-
+code 7:
+=8oqt
 
 Dont forget to сцеплять all codes!
